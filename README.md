@@ -14,7 +14,7 @@ Meu mod de Victoria 2.
 * Países formáveis agora não são mais necessário serem potências mundiais (alguns países ainda são necessário mas ainda não achei onde);
 * Valor nacional do país pode ser alterado nas decisões.
 
-Mapa:
+# Mapa:
 
 * Ajeitado a fronteira entre o Estados Unidos e o Canadá;
 * Adicionado core da Suécia em uma região que tava faltando na Finlândia;
@@ -22,7 +22,7 @@ Mapa:
 * Taxa de assimilação base dos continentes foi balaceada.
 
 
-População:
+# População:
 
 * Focus nacionais de promoção agora são 80%;
 * Focus nacionais de imigração agora é 100%;
@@ -31,7 +31,7 @@ População:
 * Taxa de assimilação base aumentada;
 * Agora as Américas e Oceania possuem novas decisões que ajudam no aumento da taxa de assimilação e imigração.
 
-Infraestrutura:
+# Infraestrutura:
 
 * Ferrovias podem ser feitas normalmente em qualquer tipo de terreno;
 * Portos podem ser construidos em qualquer provincia que possui um porto nivel 0 (acesso ao mar no geral);
@@ -39,13 +39,13 @@ Infraestrutura:
 * Diminuido a quatidade de partes mecanicas para fazer ... fábrica de partes mecânicas;
 * Tempo de construição de infraestruturas no jogo foi padronizado em 360 com exeção nos que já eram menos tempo.
 
-Tecnologias e Invenções:
+# Tecnologias e Invenções:
 
 * Algumas Tecnologias foram melhoradas;
 * A chance de descobrimento de todas as invenções no jogo agora é 1000% descobrindo muito rápido. A exeção é a Colonial Negociations;
 * Colonial Negociations ficará chance de descobrimento 1000% se estiver em 1870 e com todas as invenções necessárias descobertas.
 
-Guerras:
+# Guerras:
 
 * Balanceamento no sistema de infamia;
 * Novos Casus Belis;
@@ -53,7 +53,7 @@ Guerras:
 * Truce padronizado em 2 anos com exeção aonde já era menor;
 * IA pode negociar paz com menos warscores.
 
-Países Não Civilizados:
+# Países Não Civilizados:
 
 * Aumento no ganho de pontos de pesquisa;
 * Aumento no ganho de pontos de pesquisa por consquita;
