@@ -1,0 +1,11 @@
+#############################################;;;;;;;;;;;;;;x
+change_national_value_on_title;Change National Value (Active);;;;;;;;;;;;;x
+change_national_value_on_desc;Turn on the function to change the National Value.;;;;;;;;;;;;;x
+change_national_value_off_title;Change National Value (Inactive);;;;;;;;;;;;;x
+change_national_value_off_desc;Turn off the function to change the National Value.;;;;;;;;;;;;;x
+switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;x
+switch_to_order_desc;The foreigners progress and dominate through an orderly and organized society, based on a sense of duty to their country. If we were to embrace this ideal, we might strive as they do.\n\n§G   Mobilization Size: 4% of our poor citizens\n§B   Mobilization Impact on Economy: 100%\n§B   Pops will be slightly more conservative.;;;;;;;;;;;;;x
+switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;;x
+switch_to_equality_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of equality and social fairness above all else.\n\n§G   Mobilization Size: 6% of our poor citizens\n§R   Mobilization Impact on Economy: 125%\n§R   Pops will be slightly more socialist.;;;;;;;;;;;;;x
+switch_to_liberty_title;Embrace the Ideal of Liberty;;;;;;;;;;;;;x
+switch_to_liberty_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of liberty and personal freedom above all else.\n\n§G   Mobilization Size: 2% of our poor citizens\n§G   Mobilization Impact on Economy: 75%\n§G   Pops will be slightly more liberal.;;;;;;;;;;;;;x

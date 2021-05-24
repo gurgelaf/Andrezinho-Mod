@@ -1,0 +1,29 @@
+#############################################;;;;;;;;;;;;;;x
+acquire_lowpop_state;Acquire a Small Pop State;;;;;;;;;;;;;x
+acquire_lowpop_state_desc;Acquire a state that have less than 300k pops;;;;;;;;;;;;;x
+acquire_lowpop_state_setup:Acquires $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
+acquire_lowpop_state_short;Acquires $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
+acquire_highpop_state;Acquire a High Pop State;;;;;;;;;;;;;x
+acquire_highpop_state_desc;Acquire a state that have greater than 1M pops;;;;;;;;;;;;;x
+acquire_highpop_state_setup;Acquires $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
+acquire_highpop_state_short;Acquires $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
+demand_capital_concession_casus_belli;Demand Capital Concession;;;;;;;;;;;;;x
+demand_capital_concession_casus_belli_desc;Demand the Capital Concession of a country and force them to move their capital elsewhere;;;;;;;;;;;;;x
+demand_capital_concession_casus_belli_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;x
+demand_capital_concession_casus_belli_short;Takes Capital from $RECIPIENT$;;;;;;;;;;;;;x
+conquest_medium;Middle Conquest;;;;;;;;;;;;;x
+conquest_medium_desc;Annex a country of normal size and population by conquest;;;;;;;;;;;;;x
+conquest_medium_setup;Annex minor nation of $RECIPIENT$;;;;;;;;;;;;;x
+conquest_medium_short;Annex $RECIPIENT$;;;;;;;;;;;;;x
+establish_protectorate_small_casus_belli;Establish Minor Protectorate;;;;;;;;;;;;;x
+establish_protectorate_small_casus_belli_desc;Establish A Protectorate in a small pop state;;;;;;;;;;;;;x
+establish_protectorate_small_casus_belli_setup;Establish Protectorate in $RECIPIENT$;;;;;;;;;;;;;x
+establish_protectorate_small_casus_belli_short;Annex $RECIPIENT$;;;;;;;;;;;;;x
+make_puppet_small;Make Small Puppet;;;;;;;;;;;;;x
+make_puppet_small_desc;Make a Puppet from a country with small population and size;;;;;;;;;;;;;x
+make_puppet_small_setup;Makes $RECIPIENT$ your Puppet;;;;;;;;;;;;;x
+make_puppet_small_short;Makes $RECIPIENT$ your Puppet;;;;;;;;;;;;;x
+take_capital_small_country;Take Small Capital;;;;;;;;;;;;;x
+take_capital_small_country_desc;Take the Capital region of a small pop and size country and force them to move their capital elsewhere;;;;;;;;;;;;;x
+take_capital_small_country_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;x
+take_capital_small_country_short;Takes Capital from $RECIPIENT$;;;;;;;;;;;;;x

@@ -1,0 +1,132 @@
+political_decisions = {
+
+    change_national_value_on = {
+        alert = no
+        potential = {
+			ai = no
+            NOT = {    has_country_flag = nv_change }
+        }
+
+        allow = {
+			NOT = {    has_country_flag = nv_change }
+			ai = no
+        }
+
+        effect = { set_country_flag = nv_change }
+    }
+
+    change_national_value_off = {
+        alert = no
+        potential = {
+            has_country_flag = nv_change
+			ai = no
+        }
+
+        allow = {
+			has_country_flag = nv_change
+			ai = no
+		}
+
+        effect = { clr_country_flag = nv_change }
+    }
+	
+	switch_to_liberty = {
+		alert = no
+			picture = switch_to_liberty
+			potential = {
+				ai = no
+				has_country_flag = nv_change
+			}
+
+			allow = {
+				war = no
+				ai = no
+			}
+
+			effect = {
+				clr_country_flag = nv_change
+				nationalvalue = nv_liberty
+				
+				any_pop = {
+					scaled_militancy = {
+						ideology = reactionary
+						factor = 8
+					}
+					scaled_militancy = {
+						ideology = conservative
+						factor = 2
+					}
+					scaled_militancy = {
+						ideology = liberal
+						factor = -2
+					}
+				}
+			}
+		}
+	
+	switch_to_order = {
+		alert = no
+			potential = {
+				ai = no
+				has_country_flag = nv_change
+			}
+
+			allow = {
+				war = no
+				ai = no
+			}
+
+			effect = {
+				clr_country_flag = nv_change
+				nationalvalue = nv_order
+				
+				any_pop = {
+					scaled_militancy = {
+						ideology = reactionary
+						factor = 8
+					}
+					scaled_militancy = {
+						ideology = conservative
+						factor = 2
+					}
+					scaled_militancy = {
+						ideology = liberal
+						factor = -2
+					}
+				}
+			}
+		}
+
+	switch_to_equality = {
+		alert = no
+		potential = {
+			ai = no
+			has_country_flag = nv_change
+		}
+
+		allow = {
+			war = no
+			ai = no
+		}
+
+		effect = {
+			clr_country_flag = nv_change
+			nationalvalue = nv_equality
+			
+			any_pop = {
+				scaled_militancy = {
+					ideology = reactionary
+					factor = 8
+				}
+				scaled_militancy = {
+					ideology = conservative
+					factor = 2
+				}
+				scaled_militancy = {
+					ideology = liberal
+					factor = -2
+				}
+			}
+		}
+	}		
+}

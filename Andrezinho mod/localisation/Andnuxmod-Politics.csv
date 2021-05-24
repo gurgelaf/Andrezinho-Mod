@@ -1,0 +1,8 @@
+foreign_artillery;Foreign Artillery;;;;;;;;;;;;;
+foreign_artillery_l;Foreign Artillery;;;;;;;;;;;;;
+no_foreign_artillery;Local Artillery;;;;;;;;;;;;;
+no_foreign_artillery_l;Local Artillery;;;;;;;;;;;;;
+no_foreign_artillery_desc;Artillery is made up of ineffective siege equipment or it's not present at all.;;;;;;;;;;;;;
+yes_foreign_artillery;Imported Artillery;;;;;;;;;;;;;
+yes_foreign_artillery_l;Imported Artillery;;;;;;;;;;;;;
+yes_foreign_artillery_desc;Our artillery is imported from western powers.;;;;;;;;;;;;;
