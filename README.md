@@ -18,7 +18,7 @@ Meu mod de Victoria 2.
 
 * Ajeitado a fronteira entre o Estados Unidos e o Canadá;
 * Adicionado core da Suécia em uma região que tava faltando na Finlândia;
-* Espeanha agora pode ganhar core em gibraltar a partir de uma nova decisão;
+* Espanha agora pode ganhar core em gibraltar a partir de uma nova decisão;
 * Taxa de assimilação base dos continentes foi balaceada.
 
 
@@ -41,6 +41,7 @@ Meu mod de Victoria 2.
 
 # Tecnologias e Invenções:
 
+* Pontos de pesquisa guardado são usados instataneamente quando escolhe uma tecnologia;
 * Algumas Tecnologias foram melhoradas;
 * A chance de descobrimento de todas as invenções no jogo agora é 1000% descobrindo muito rápido. A exeção é a Colonial Negociations;
 * Colonial Negociations ficará chance de descobrimento 1000% se estiver em 1870 e com todas as invenções necessárias descobertas.
