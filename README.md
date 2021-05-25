@@ -1,18 +1,8 @@
 # Andrezinho Mod
 
-Meu mod de Victoria 2.
+Meu mod de Victoria 2 que faz algumas alterações no jogo HOD Vanilla.
 
 # Alterações do mod:
-
-# Mudanças Gerais:
-
-* Aumento no ganho de prestigio base;
-* Aumento no ganho de pontos de pesquisa base;
-* Zerado o tempo para a ultilização de pontos diplomaticos;
-* Países fantoches podem se tornar independentes a partir de decisões;
-* Jogadores podem pedir e realizar emprestimos para outros jogadores;
-* Países formáveis agora não são mais necessário serem potências mundiais (alguns países ainda são necessário mas ainda não achei onde);
-* Valor nacional do país pode ser alterado nas decisões.
 
 # Mapa:
 
@@ -41,6 +31,7 @@ Meu mod de Victoria 2.
 
 # Tecnologias e Invenções:
 
+* Aumento no ganho de pontos de pesquisa base;
 * Pontos de pesquisa guardado são usados instataneamente quando escolhe uma tecnologia;
 * Algumas Tecnologias foram melhoradas;
 * A chance de descobrimento de todas as invenções no jogo agora é 1000% descobrindo muito rápido. A exeção é a Colonial Negociations;
@@ -53,6 +44,15 @@ Meu mod de Victoria 2.
 * Tempo de justificativa de guerra diminuido;
 * Truce padronizado em 2 anos com exeção aonde já era menor;
 * IA pode negociar paz com menos warscores.
+
+# Países:
+
+* Aumento no ganho de prestigio base;
+* Zerado o tempo para a ultilização de pontos diplomaticos;
+* Países fantoches podem se tornar independentes a partir de decisões;
+* Jogadores podem pedir e realizar emprestimos para outros jogadores;
+* Países formáveis agora não são mais necessário serem potências mundiais (alguns países ainda são necessário mas ainda não achei onde muda);
+* Valor nacional do país pode ser alterado nas decisões.
 
 # Países Não Civilizados:
 
