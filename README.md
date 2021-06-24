@@ -26,7 +26,7 @@ Meu mod de Victoria 2 que faz algumas alterações no jogo HOD Vanilla.
 * Ferrovias podem ser feitas normalmente em qualquer tipo de terreno;
 * Portos podem ser construidos em qualquer provincia que possui um porto nivel 0 (acesso ao mar no geral);
 * O preço e os recursos necessários para construir fortes foi diminuido;
-* Diminuido a quatidade de partes mecanicas para fazer ... fábrica de partes mecânicas;
+* Diminuido a quatidade de partes mecânicas para fazer ... fábrica de partes mecânicas;
 * Tempo de construição de infraestruturas no jogo foi padronizado em 360 com exeção nos que já eram menos tempo.
 
 # Tecnologias e Invenções:
