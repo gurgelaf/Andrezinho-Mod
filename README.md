@@ -14,9 +14,9 @@ Meu mod de Victoria 2 que faz algumas alterações no jogo HOD Vanilla.
 
 # População:
 
-* Focus nacionais de promoção agora são 80%;
+* Focus nacionais de promoção agora são 35%;
 * Focus nacionais de imigração agora é 100%;
-* Quantidade de população necessária para aumenta a quantidade máxima de focu nacional agora é 50k;
+* Quantidade de população necessária para aumentar a quantidade máxima de focu nacional agora é 50k;
 * Taxa de imigração base aumentada;
 * Taxa de assimilação base aumentada;
 * Agora as Américas e Oceania possuem novas decisões que ajudam no aumento da taxa de assimilação e imigração.
